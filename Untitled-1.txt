@@ -1,0 +1,21 @@
+
+menu (inverval logo,home,about, tutors,courses,news,testimonials, Career, blogs contact, tab(online tution, downloads))
+
+page 1
+image, pop up(book your free demo class today)
+
+page 2
+
+details, image, pop up ,,
+
+page 3
+world wide achievements (logos)
+
+page 4
+image, one animated image
+
+https://www.google.com/imgres?q=intervaledu&imgurl=https%3A%2F%2Fwww.intervaledu.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fadmin.intervaledu.com%252Fmedia%252FImages%252FBanner%252Fdesk_view_new-min.png%26w%3D3840%26q%3D75&imgrefurl=https%3A%2F%2Fwww.intervaledu.com%2F&docid=Ypx8D0JkLkhzvM&tbnid=vlFvEwdgwVMWcM&vet=12ahUKEwj25IGo3cOGAxUwTGwGHSnfC8MQM3oECGsQAA..i&w=3840&h=1638&hcb=2&ved=2ahUKEwj25IGo3cOGAxUwTGwGHSnfC8MQM3oECGsQAA
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR116fwC7xN0z8aBHBPfMbpQICZ5BZYonqP_Q&s
+
+
